@@ -519,7 +519,14 @@ a {
   background-position: top right; }
 
 .bg-footer {
-  background-image: url(../img/bg/footer.jpg); }
+      background-image: url(../img/bg/footer.jpg); }
+.footer-wheel {
+    background-image: url(../img/bg/wheel-small.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-size: 500px 500px;
+}
 
 .bg-8 {
   background-image: url(../img/bg/4.jpg); }
@@ -1777,8 +1784,6 @@ a {
   left: -50px; }
 
 .footer-area .f-content .inner-content {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex; }
   .footer-area .f-content .inner-content .f-icon i.fa {
     font-size: 30px;
