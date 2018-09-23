@@ -45,7 +45,7 @@ Author Email: ithemeslab@gmail.com */
 /* 1.1  global & override */
 body {
   font-family: "Poppins", sans-serif;
-  color: #656565;
+  color: #1F1F1F;
   font-size: 15px;
   line-height: 25px;
   -webkit-backface-visibility: hidden; }
@@ -797,7 +797,7 @@ a {
     height: 100vh; }
     .hero-banner-area.home-2 .banner-content h3 {
       font-size: 50px;
-      color: #252525;
+      color: #ffffff;
       font-weight: 700;
       line-height: 2em;
       text-transform: uppercase; }
@@ -2030,7 +2030,7 @@ a {
     top: 24%;
     color: #4125dd;
     font-size: 50px;
-    content: "\f10e";
+    content: "";
     font-family: fontawesome; }
   .motivational-concepts-area .testimonial-wrapper .inner-content {
     display: -webkit-box;
